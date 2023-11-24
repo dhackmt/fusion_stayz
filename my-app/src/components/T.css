@@ -1,0 +1,24 @@
+body{
+    background-color: aqua;
+}
+
+table{
+/* align-content:center; */
+width:10px;
+margin-top: 10%;
+margin-left: 5%;
+size:10px;
+border-color: blueviolet;
+border-width:20px ;
+border-radius:10px;
+size: 70%;
+}
+
+tr{
+    font-size: large;
+}
+
+/* .c1{
+    text-align: center;
+    border-radius: 5px;
+} */
